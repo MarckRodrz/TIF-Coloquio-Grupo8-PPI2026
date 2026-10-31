@@ -1,0 +1,13 @@
+﻿id_linea,nombre_linea,recorrido,empresa,tipo_servicio,km_recorrido
+1,Línea 1,Centro – Alto Comedero,Transportes Sur,Urbano,11.6
+2,Línea 2,Centro – Ciudad de Nieva,Transportes Sur,Urbano,10.2
+3,Línea 3,Centro – Los Perales,Movilidad Quebrada,Urbano,15.1
+4,Línea 4,Centro – Mariano Moreno,Transportes Sur,Urbano,8.8
+5,Línea 5,Centro – Gorriti,Transportes Sur,Urbano,9.6
+6,Línea 6,Centro – Cuyaya,Movilidad Quebrada,Urbano,23.9
+7,Línea 7,Centro – Bajo La Viña,Empresa Cuenca Norte,Urbano,9.5
+8,Línea 8,Centro – Chijra,Empresa Cuenca Norte,Urbano,15.8
+9,Línea 9,Centro – Malvinas,Movilidad Quebrada,Urbano,21.1
+10,Línea 10,Centro – Alto Gorriti,Transportes Sur,Urbano,11.3
+11,Línea 11,Centro – Punta Diamante,Transportes Sur,Urbano,22.1
+12,Línea 12,Centro – Campo Verde,Transportes Sur,Urbano,10.7

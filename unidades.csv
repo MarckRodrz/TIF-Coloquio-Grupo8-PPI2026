@@ -1,0 +1,61 @@
+﻿id_unidad,interno,id_linea,modelo,anio_fabricacion,capacidad_pasajeros,combustible
+1,INT-001,1,Agrale MA 15,2015,60,Diésel
+2,INT-002,1,Mercedes-Benz OF 1519,2019,45,GNC
+3,INT-003,1,Volkswagen 17.230,2013,60,Diésel
+4,INT-004,1,Volkswagen 17.230,2022,40,Diésel
+5,INT-005,1,BYD K9,2014,45,Diésel
+6,INT-006,2,BYD K9,2018,45,Diésel
+7,INT-007,2,Volkswagen 17.230,2012,45,Diésel
+8,INT-008,2,Iveco Tector,2018,40,Diésel
+9,INT-009,2,Volkswagen 17.230,2011,60,Diésel
+10,INT-010,2,Iveco Tector,2013,45,Diésel
+11,INT-011,3,BYD K9,2014,45,Diésel
+12,INT-012,3,BYD K9,2012,40,Diésel
+13,INT-013,3,Mercedes-Benz OF 1519,2013,60,Diésel
+14,INT-014,3,Agrale MA 15,2024,45,Diésel
+15,INT-015,3,BYD K9,2011,45,Diésel
+16,INT-016,4,Volkswagen 17.230,2012,40,Diésel
+17,INT-017,4,BYD K9,2021,60,Diésel
+18,INT-018,4,Mercedes-Benz OF 1519,2019,45,Diésel
+19,INT-019,4,Iveco Tector,2011,60,GNC
+20,INT-020,4,Mercedes-Benz OF 1519,2013,45,Diésel
+21,INT-021,5,Iveco Tector,2022,40,Diésel
+22,INT-022,5,BYD K9,2023,40,GNC
+23,INT-023,5,Iveco Tector,2019,60,Diésel
+24,INT-024,5,Agrale MA 15,2023,60,Diésel
+25,INT-025,5,Volkswagen 17.230,2013,60,Diésel
+26,INT-026,6,BYD K9,2010,45,Diésel
+27,INT-027,6,Agrale MA 15,2024,60,Diésel
+28,INT-028,6,BYD K9,2014,40,Eléctrico
+29,INT-029,6,Agrale MA 15,2023,60,Eléctrico
+30,INT-030,6,BYD K9,2015,40,Diésel
+31,INT-031,7,Iveco Tector,2017,60,Diésel
+32,INT-032,7,Mercedes-Benz OF 1519,2012,40,Diésel
+33,INT-033,7,Mercedes-Benz OF 1519,2011,45,Diésel
+34,INT-034,7,Agrale MA 15,2020,45,GNC
+35,INT-035,7,Agrale MA 15,2014,60,Diésel
+36,INT-036,8,Volkswagen 17.230,2015,45,GNC
+37,INT-037,8,BYD K9,2009,45,Diésel
+38,INT-038,8,Iveco Tector,2018,40,Diésel
+39,INT-039,8,Mercedes-Benz OF 1519,2012,40,Diésel
+40,INT-040,8,BYD K9,2024,45,Diésel
+41,INT-041,9,Volkswagen 17.230,2012,60,Diésel
+42,INT-042,9,Mercedes-Benz OF 1519,2017,60,Eléctrico
+43,INT-043,9,Iveco Tector,2018,45,Diésel
+44,INT-044,9,Mercedes-Benz OF 1519,2021,45,Diésel
+45,INT-045,9,BYD K9,2017,45,Diésel
+46,INT-046,10,BYD K9,2017,60,Eléctrico
+47,INT-047,10,Mercedes-Benz OF 1519,2021,60,Diésel
+48,INT-048,10,Iveco Tector,2015,40,GNC
+49,INT-049,10,Mercedes-Benz OF 1519,2019,40,GNC
+50,INT-050,10,BYD K9,2015,45,Eléctrico
+51,INT-051,11,Iveco Tector,2023,45,Diésel
+52,INT-052,11,Volkswagen 17.230,2015,60,GNC
+53,INT-053,11,Iveco Tector,2017,60,Diésel
+54,INT-054,11,Volkswagen 17.230,2018,60,GNC
+55,INT-055,11,Agrale MA 15,2009,60,Diésel
+56,INT-056,12,Volkswagen 17.230,2008,60,Eléctrico
+57,INT-057,12,Volkswagen 17.230,2008,45,GNC
+58,INT-058,12,Agrale MA 15,2014,40,GNC
+59,INT-059,12,Volkswagen 17.230,2015,60,Eléctrico
+60,INT-060,12,BYD K9,2009,40,Diésel

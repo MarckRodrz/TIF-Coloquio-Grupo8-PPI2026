@@ -1,0 +1,151 @@
+﻿id_parada,nombre_parada,barrio,latitud,longitud,tiene_refugio,accesible
+1,Centro - Parada 1,Centro,-24.1861,-65.30287,Sí,No
+2,Centro - Parada 2,Centro,-24.17772,-65.29625,Sí,No
+3,Centro - Parada 3,Centro,-24.18538,-65.30137,Sí,No
+4,Centro - Parada 4,Centro,-24.18749,-65.29979,Sí,Sí
+5,Centro - Parada 5,Centro,-24.18706,-65.29649,Sí,No
+6,Centro - Parada 6,Centro,-24.19477,-65.30336,No,No
+7,Centro - Parada 7,Centro,-24.18178,-65.30152,Sí,No
+8,Centro - Parada 8,Centro,-24.18509,-65.30268,No,Sí
+9,Centro - Parada 9,Centro,-24.18792,-65.29577,Sí,Sí
+10,Centro - Parada 10,Centro,-24.17948,-65.3046,Sí,No
+11,Alto Comedero - Parada 1,Alto Comedero,-24.14123,-65.34513,No,Sí
+12,Alto Comedero - Parada 2,Alto Comedero,-24.14941,-65.34071,No,No
+13,Alto Comedero - Parada 3,Alto Comedero,-24.14135,-65.34718,Sí,No
+14,Alto Comedero - Parada 4,Alto Comedero,-24.15027,-65.35153,No,No
+15,Alto Comedero - Parada 5,Alto Comedero,-24.15369,-65.34165,No,No
+16,Alto Comedero - Parada 6,Alto Comedero,-24.14389,-65.34548,No,No
+17,Alto Comedero - Parada 7,Alto Comedero,-24.13885,-65.34626,No,Sí
+18,Alto Comedero - Parada 8,Alto Comedero,-24.15117,-65.34492,No,Sí
+19,Alto Comedero - Parada 9,Alto Comedero,-24.15488,-65.33867,Sí,No
+20,Alto Comedero - Parada 10,Alto Comedero,-24.14453,-65.35113,No,No
+21,Ciudad de Nieva - Parada 1,Ciudad de Nieva,-24.14441,-65.2732,No,No
+22,Ciudad de Nieva - Parada 2,Ciudad de Nieva,-24.13027,-65.27417,No,Sí
+23,Ciudad de Nieva - Parada 3,Ciudad de Nieva,-24.13189,-65.27408,Sí,Sí
+24,Ciudad de Nieva - Parada 4,Ciudad de Nieva,-24.14381,-65.27909,No,Sí
+25,Ciudad de Nieva - Parada 5,Ciudad de Nieva,-24.13436,-65.27189,Sí,Sí
+26,Ciudad de Nieva - Parada 6,Ciudad de Nieva,-24.13917,-65.26732,Sí,Sí
+27,Ciudad de Nieva - Parada 7,Ciudad de Nieva,-24.1333,-65.27728,No,Sí
+28,Ciudad de Nieva - Parada 8,Ciudad de Nieva,-24.13489,-65.2693,Sí,No
+29,Ciudad de Nieva - Parada 9,Ciudad de Nieva,-24.14191,-65.2722,No,Sí
+30,Ciudad de Nieva - Parada 10,Ciudad de Nieva,-24.14521,-65.27219,Sí,No
+31,Los Perales - Parada 1,Los Perales,-24.22382,-65.22945,Sí,No
+32,Los Perales - Parada 2,Los Perales,-24.23118,-65.23526,Sí,No
+33,Los Perales - Parada 3,Los Perales,-24.22445,-65.23683,No,No
+34,Los Perales - Parada 4,Los Perales,-24.22736,-65.23615,Sí,Sí
+35,Los Perales - Parada 5,Los Perales,-24.22673,-65.23141,Sí,Sí
+36,Los Perales - Parada 6,Los Perales,-24.23454,-65.23865,No,Sí
+37,Los Perales - Parada 7,Los Perales,-24.2266,-65.22868,Sí,No
+38,Los Perales - Parada 8,Los Perales,-24.22896,-65.23657,No,No
+39,Los Perales - Parada 9,Los Perales,-24.23568,-65.23969,Sí,Sí
+40,Los Perales - Parada 10,Los Perales,-24.22665,-65.23263,No,Sí
+41,Mariano Moreno - Parada 1,Mariano Moreno,-24.15496,-65.28662,Sí,Sí
+42,Mariano Moreno - Parada 2,Mariano Moreno,-24.14758,-65.28414,No,No
+43,Mariano Moreno - Parada 3,Mariano Moreno,-24.15282,-65.28469,No,Sí
+44,Mariano Moreno - Parada 4,Mariano Moreno,-24.15382,-65.28248,Sí,Sí
+45,Mariano Moreno - Parada 5,Mariano Moreno,-24.1467,-65.29121,No,Sí
+46,Mariano Moreno - Parada 6,Mariano Moreno,-24.15329,-65.28255,Sí,No
+47,Mariano Moreno - Parada 7,Mariano Moreno,-24.15351,-65.28805,No,Sí
+48,Mariano Moreno - Parada 8,Mariano Moreno,-24.16499,-65.28129,No,No
+49,Mariano Moreno - Parada 9,Mariano Moreno,-24.1545,-65.28487,No,No
+50,Mariano Moreno - Parada 10,Mariano Moreno,-24.15487,-65.28463,No,Sí
+51,Gorriti - Parada 1,Gorriti,-24.24171,-65.26578,Sí,Sí
+52,Gorriti - Parada 2,Gorriti,-24.24641,-65.2619,No,Sí
+53,Gorriti - Parada 3,Gorriti,-24.2301,-65.26156,No,Sí
+54,Gorriti - Parada 4,Gorriti,-24.24565,-65.2606,Sí,Sí
+55,Gorriti - Parada 5,Gorriti,-24.24563,-65.25708,No,Sí
+56,Gorriti - Parada 6,Gorriti,-24.2423,-65.2573,No,No
+57,Gorriti - Parada 7,Gorriti,-24.23799,-65.26075,No,No
+58,Gorriti - Parada 8,Gorriti,-24.23821,-65.25946,No,Sí
+59,Gorriti - Parada 9,Gorriti,-24.2418,-65.25597,No,Sí
+60,Gorriti - Parada 10,Gorriti,-24.23555,-65.26224,No,Sí
+61,Cuyaya - Parada 1,Cuyaya,-24.11858,-65.26075,No,Sí
+62,Cuyaya - Parada 2,Cuyaya,-24.11729,-65.26447,No,No
+63,Cuyaya - Parada 3,Cuyaya,-24.11225,-65.26663,Sí,Sí
+64,Cuyaya - Parada 4,Cuyaya,-24.11045,-65.25949,Sí,Sí
+65,Cuyaya - Parada 5,Cuyaya,-24.1234,-65.25591,No,Sí
+66,Cuyaya - Parada 6,Cuyaya,-24.11933,-65.26509,No,No
+67,Cuyaya - Parada 7,Cuyaya,-24.11317,-65.26708,No,No
+68,Cuyaya - Parada 8,Cuyaya,-24.1192,-65.26371,Sí,No
+69,Cuyaya - Parada 9,Cuyaya,-24.11985,-65.26633,Sí,No
+70,Cuyaya - Parada 10,Cuyaya,-24.11175,-65.26568,Sí,Sí
+71,Bajo La Viña - Parada 1,Bajo La Viña,-24.17646,-65.33984,Sí,Sí
+72,Bajo La Viña - Parada 2,Bajo La Viña,-24.17244,-65.33972,No,Sí
+73,Bajo La Viña - Parada 3,Bajo La Viña,-24.17742,-65.34259,Sí,No
+74,Bajo La Viña - Parada 4,Bajo La Viña,-24.172,-65.34866,Sí,No
+75,Bajo La Viña - Parada 5,Bajo La Viña,-24.17704,-65.34234,Sí,Sí
+76,Bajo La Viña - Parada 6,Bajo La Viña,-24.17162,-65.34207,Sí,No
+77,Bajo La Viña - Parada 7,Bajo La Viña,-24.1733,-65.34588,No,No
+78,Bajo La Viña - Parada 8,Bajo La Viña,-24.17113,-65.34069,No,No
+79,Bajo La Viña - Parada 9,Bajo La Viña,-24.18113,-65.34334,No,No
+80,Bajo La Viña - Parada 10,Bajo La Viña,-24.1776,-65.34806,Sí,No
+81,Chijra - Parada 1,Chijra,-24.17937,-65.34363,No,No
+82,Chijra - Parada 2,Chijra,-24.18002,-65.34254,No,Sí
+83,Chijra - Parada 3,Chijra,-24.1797,-65.34679,No,Sí
+84,Chijra - Parada 4,Chijra,-24.17962,-65.34818,Sí,No
+85,Chijra - Parada 5,Chijra,-24.17623,-65.34737,No,Sí
+86,Chijra - Parada 6,Chijra,-24.18044,-65.34845,Sí,No
+87,Chijra - Parada 7,Chijra,-24.17235,-65.34283,Sí,No
+88,Chijra - Parada 8,Chijra,-24.18728,-65.34403,Sí,Sí
+89,Chijra - Parada 9,Chijra,-24.18131,-65.3407,No,No
+90,Chijra - Parada 10,Chijra,-24.18383,-65.35047,Sí,No
+91,Malvinas - Parada 1,Malvinas,-24.20387,-65.34421,No,No
+92,Malvinas - Parada 2,Malvinas,-24.19952,-65.34202,Sí,No
+93,Malvinas - Parada 3,Malvinas,-24.19653,-65.34474,No,No
+94,Malvinas - Parada 4,Malvinas,-24.1971,-65.34856,Sí,Sí
+95,Malvinas - Parada 5,Malvinas,-24.19375,-65.34954,No,No
+96,Malvinas - Parada 6,Malvinas,-24.20187,-65.34946,No,No
+97,Malvinas - Parada 7,Malvinas,-24.19693,-65.34402,No,Sí
+98,Malvinas - Parada 8,Malvinas,-24.20383,-65.3456,No,No
+99,Malvinas - Parada 9,Malvinas,-24.19812,-65.34529,No,No
+100,Malvinas - Parada 10,Malvinas,-24.19774,-65.35319,Sí,Sí
+101,Alto Gorriti - Parada 1,Alto Gorriti,-24.15371,-65.238,No,No
+102,Alto Gorriti - Parada 2,Alto Gorriti,-24.15636,-65.23447,Sí,No
+103,Alto Gorriti - Parada 3,Alto Gorriti,-24.15969,-65.23982,No,Sí
+104,Alto Gorriti - Parada 4,Alto Gorriti,-24.15762,-65.22689,No,No
+105,Alto Gorriti - Parada 5,Alto Gorriti,-24.15443,-65.24008,No,Sí
+106,Alto Gorriti - Parada 6,Alto Gorriti,-24.16169,-65.23555,No,Sí
+107,Alto Gorriti - Parada 7,Alto Gorriti,-24.15425,-65.23784,No,Sí
+108,Alto Gorriti - Parada 8,Alto Gorriti,-24.15307,-65.23393,No,Sí
+109,Alto Gorriti - Parada 9,Alto Gorriti,-24.16008,-65.24052,No,Sí
+110,Alto Gorriti - Parada 10,Alto Gorriti,-24.15582,-65.2325,No,No
+111,Punta Diamante - Parada 1,Punta Diamante,-24.19822,-65.3207,No,No
+112,Punta Diamante - Parada 2,Punta Diamante,-24.19231,-65.32523,No,Sí
+113,Punta Diamante - Parada 3,Punta Diamante,-24.1895,-65.32203,Sí,No
+114,Punta Diamante - Parada 4,Punta Diamante,-24.19935,-65.33195,Sí,Sí
+115,Punta Diamante - Parada 5,Punta Diamante,-24.18937,-65.33145,No,No
+116,Punta Diamante - Parada 6,Punta Diamante,-24.19304,-65.32721,No,Sí
+117,Punta Diamante - Parada 7,Punta Diamante,-24.19202,-65.32563,No,No
+118,Punta Diamante - Parada 8,Punta Diamante,-24.19147,-65.31498,No,Sí
+119,Punta Diamante - Parada 9,Punta Diamante,-24.19495,-65.32649,Sí,No
+120,Punta Diamante - Parada 10,Punta Diamante,-24.19788,-65.32243,Sí,Sí
+121,Campo Verde - Parada 1,Campo Verde,-24.17641,-65.3315,Sí,Sí
+122,Campo Verde - Parada 2,Campo Verde,-24.16936,-65.33108,No,Sí
+123,Campo Verde - Parada 3,Campo Verde,-24.17214,-65.33227,Sí,Sí
+124,Campo Verde - Parada 4,Campo Verde,-24.16688,-65.33089,Sí,No
+125,Campo Verde - Parada 5,Campo Verde,-24.16483,-65.33332,No,Sí
+126,Campo Verde - Parada 6,Campo Verde,-24.17126,-65.32105,Sí,Sí
+127,Campo Verde - Parada 7,Campo Verde,-24.17145,-65.32888,Sí,No
+128,Campo Verde - Parada 8,Campo Verde,-24.17442,-65.32246,No,Sí
+129,Campo Verde - Parada 9,Campo Verde,-24.16872,-65.32423,Sí,No
+130,Campo Verde - Parada 10,Campo Verde,-24.17087,-65.32661,Sí,No
+131,Palpalá - Parada 1,Palpalá,-24.17355,-65.29948,No,No
+132,Palpalá - Parada 2,Palpalá,-24.16746,-65.29498,No,No
+133,Palpalá - Parada 3,Palpalá,-24.17733,-65.30377,Sí,Sí
+134,Palpalá - Parada 4,Palpalá,-24.17061,-65.29769,No,No
+135,Palpalá - Parada 5,Palpalá,-24.17387,-65.29937,Sí,No
+136,Palpalá - Parada 6,Palpalá,-24.17083,-65.30808,No,No
+137,Palpalá - Parada 7,Palpalá,-24.17889,-65.30141,Sí,Sí
+138,Palpalá - Parada 8,Palpalá,-24.16354,-65.2907,No,No
+139,Palpalá - Parada 9,Palpalá,-24.17025,-65.29952,Sí,No
+140,Palpalá - Parada 10,Palpalá,-24.17316,-65.29555,Sí,Sí
+141,Reyes - Parada 1,Reyes,-24.13614,-65.23787,No,Sí
+142,Reyes - Parada 2,Reyes,-24.13424,-65.23806,Sí,No
+143,Reyes - Parada 3,Reyes,-24.13469,-65.2479,Sí,Sí
+144,Reyes - Parada 4,Reyes,-24.13814,-65.24953,Sí,Sí
+145,Reyes - Parada 5,Reyes,-24.13111,-65.24912,No,No
+146,Reyes - Parada 6,Reyes,-24.12874,-65.23877,No,No
+147,Reyes - Parada 7,Reyes,-24.13295,-65.23621,Sí,No
+148,Reyes - Parada 8,Reyes,-24.13973,-65.24155,No,Sí
+149,Reyes - Parada 9,Reyes,-24.13597,-65.24584,No,No
+150,Reyes - Parada 10,Reyes,-24.13036,-65.23855,No,No
